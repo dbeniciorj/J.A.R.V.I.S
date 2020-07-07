@@ -39,7 +39,7 @@ sudo apt-get update && sudo apt-get install gcc make perl python3-pip espeak
 
 ```
 
-### If you have problems with libs above you can try the respective packages found under Ubuntu:
+### If you have problems with libs above you can try the respective packages found under VS and Ubuntu:
 ```
 jsonlib (jsonlib-python3)
 PyAudio (python3-pyaudio)
