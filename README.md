@@ -63,5 +63,7 @@ Voice synthetizing is done by pyttsx3 module. It gets Operating System language 
 
 ### Future Plans
 
-  <h1>Sky is limit. There are immense possibilities in this project. Will be integrating some very powerful commands soon..</h1>
+For now there are some [tasks disposed in project Mark I](https://github.com/dbeniciorj/J.A.R.V.I.S/projects/1) and anybody can help, just assign yourself and move it to IN PROGRESS column. Changes would be merged by me asap.
+
+<h1>Sky is limit. There are immense possibilities in this project. Will be integrating some other very powerful commands soon..</h1>
   
