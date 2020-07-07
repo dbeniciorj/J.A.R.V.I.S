@@ -140,3 +140,6 @@ cython_debug/
 # IDE/Editor
 .vscode
 .idea
+.vs/J.A.R.V.I.S/v16/.suo
+.vs/slnx.sqlite
+.vs/VSWorkspaceState.json
