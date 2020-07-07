@@ -46,10 +46,9 @@ PyAudio (python3-pyaudio)
 ```
 
 ### Language support:
-Voice synthetizing is done by pyttsx3 module. It gets Operating System language configurations. Some [help with language settings can be found here] 
-(https://medium.com/better-programming/an-introduction-to-pyttsx3-a-text-to-speech-converter-for-python-4a7e1ce825c3) .
+Voice synthetizing is done by pyttsx3 module. It gets Operating System language configurations. Some [help with language settings can be found here](https://medium.com/better-programming/an-introduction-to-pyttsx3-a-text-to-speech-converter-for-python-4a7e1ce825c3) .
 
-### What it does...
+## What it does...
 <ul>
 <li>Send Gmail messages</li>
 <li>Dynamic News Reporting at any time</li>
